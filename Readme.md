@@ -2,6 +2,10 @@
 
 Up deploys nearly infinitely scalable serverless apps, APIs, and static websites in seconds, abstracts away complex AWS infrastructure so you can get back to writing code, all while providing cost effective, scalable, and global services. Utilizing AWS Lambda and API Gateway you pay only for what you use, all securely in your own AWS infrastructure. In the future additional providers may be supported.
 
+Up currently supports Node.js, Golang, Python, Crystal, and static sites out of the box.
+
+![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/screen-koa-fs8.png)
+
 ## Features
 
 Open source community edition: Coming soon.
