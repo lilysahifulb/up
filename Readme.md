@@ -22,7 +22,7 @@ Close sourced pro edition: Coming less soon.
 
 <details>
   <summary>Is up a hosted service?</summary>
-  <p>There are no plans for a hosted version, Up lets you deploy applications to your own AWS account for isolation, security, and longevity, don't worry about a startup going out of business.</p>
+  <p>There are no plans for a hosted version. Up lets you deploy applications to your own AWS account for isolation, security, and longevity, don't worry about a startup going out of business.</p>
 </details>
 
 <details>
