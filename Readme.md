@@ -40,4 +40,11 @@ Close sourced pro edition: Coming less soon.
   <p>AWS API Gateway provides 1 million free requests per month, so there's a good chance you won't have to pay anything at all!</p>
 </details>
 
+<details>
+  <summary>Can I donate?</summary>
+  <p>I'm glad you asked! Yes you can, head over to the <a href="https://opencollective.com/apex">OpenCollective</a> page. Any donations are greatly appreciated, and help me focus more on Up and other open source projects.</p>
+</details>
+
+
+
 <a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
