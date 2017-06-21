@@ -37,7 +37,7 @@ Close sourced pro edition: Coming less soon.
 
 <details>
   <summary>How much does it cost to run an application?</summary>
-  <p>AWS API Gateway provides 1 million free requests per month, so there's a good chance you won't have to pay anything at all!</p>
+  <p>AWS API Gateway provides 1 million free requests per month, so there's a good chance you won't have to pay anything at all. Beyond that view the <a href="https://aws.amazon.com/api-gateway/pricing/">AWS Pricing</a> for more information.</p>
 </details>
 
 <details>
