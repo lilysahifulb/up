@@ -10,12 +10,12 @@ Up currently supports Node.js, Golang, Python, Crystal, and static sites out of 
 
 Open source community edition: Coming soon.
 
-![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/up-features-community.png)
+![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/up-features-community-fs8.png)
 
 ## Pro Features
 
 Close sourced pro edition: Coming less soon.
 
-![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/up-features-pro.png)
+![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/up-features-pro-fs8.png)
 
 <a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
