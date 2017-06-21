@@ -41,6 +41,11 @@ Close sourced pro edition: Coming less soon.
 </details>
 
 <details>
+  <summary>Do I have to manage instances or container counts?</summary>
+  <p>Nope! Up scales to fit your traffic on-demand, you don't have to do anything beyond deploying your code.</p>
+</details>
+
+<details>
   <summary>Can I donate?</summary>
   <p>I'm glad you asked! Yes you can, head over to the <a href="https://opencollective.com/apex">OpenCollective</a> page. Any donations are greatly appreciated, and help me focus more on Up and other open source projects.</p>
 </details>
