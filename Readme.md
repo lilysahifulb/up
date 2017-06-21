@@ -16,4 +16,6 @@ Open source community edition: Coming soon.
 
 Close sourced pro edition: Coming less soon.
 
+![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/up-features-pro.png)
+
 <a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
