@@ -26,8 +26,8 @@ Close sourced pro edition: Coming less soon.
 </details>
 
 <details>
-  <summary>Why are you charging money for a Pro version?</summary>
-  <p>I am an independent developer, with no funding, so it is the only way I can support myself and the project! Commercial support, additional features, bug fix, and feature priority are provided with the Pro license, ensuring the project stays alive.</p>
+  <summary>Why are you charging money for commercial use?</summary>
+  <p>I am an independent developer, so license subscriptions is the only way I can support myself and the project long term. Commercial support, additional features, bug fix, and feature priority are provided with the Pro license, and of course ensuring the project stays alive. Up saves your team countless hours maintaining infrastructure and custom tooling, so you can get back to what makes your company and products unique.</p>
 </details>
 
 <details>
