@@ -52,7 +52,7 @@ Close sourced pro edition: Coming less soon.
 
 ## Community
 
-- [Slack](https://apex-dev.azurewebsites.net/)
-- [Blog](https://blog.apex.sh/)
+- [Slack](https://apex-dev.azurewebsites.net/) to chat with apex(1) and up(1) community members
+- [Blog](https://blog.apex.sh/) to follow release posts, tips and tricks
 
 <a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
