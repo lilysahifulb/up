@@ -50,6 +50,9 @@ Close sourced pro edition: Coming less soon.
   <p>I'm glad you asked! Yes you can, head over to the <a href="https://opencollective.com/apex">OpenCollective</a> page. Any donations are greatly appreciated, and help me focus more on Up and other open source projects.</p>
 </details>
 
+## Community
 
+- [Slack](https://apex-dev.azurewebsites.net/)
+- [Blog](https://blog.apex.sh/)
 
 <a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
