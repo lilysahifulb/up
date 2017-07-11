@@ -52,6 +52,7 @@ Close sourced pro edition: Coming less soon.
 
 ## Community
 
+- [Example applications](https://github.com/apex/up-examples) for Up
 - [Slack](https://apex-dev.azurewebsites.net/) to chat with apex(1) and up(1) community members
 - [Blog](https://blog.apex.sh/) to follow release posts, tips and tricks
 
