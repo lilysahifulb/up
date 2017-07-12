@@ -1,6 +1,6 @@
 ![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/title-fs8.png)
 
-Up deploys infinitely scalable serverless apps, APIs, and static websites in seconds, abstracts away complex AWS infrastructure so you can get back to writing code, all while providing cost effective, scalable, and global services. Utilizing AWS Lambda and API Gateway you pay only for what you use, all securely in your own AWS infrastructure. In the future additional providers may be supported.
+Up deploys infinitely scalable serverless apps, APIs, and static websites in seconds, abstracting away complex AWS infrastructure so you can get back to writing code, all while providing cost effective, scalable, and global services. Utilizing AWS Lambda and API Gateway you pay only for what you use, all securely in your own AWS infrastructure. 
 
 Up currently supports Node.js, Golang, Python, Crystal, and static sites out of the box. Once deployed you're ready to go! No waiting on remote builds, your project is immediately available. Check out some of the [examples](https://github.com/apex/up-examples) to get started.
 
@@ -18,6 +18,12 @@ Close sourced pro edition: Coming less soon.
 
 ![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/up-features-pro-fs8.png)
 
+## Pricing
+
+Information updated as of July 2017 based on public information.
+
+![pricing table](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/pricing-fs8.png)
+
 ## FAQ
 
 <details>
@@ -26,8 +32,8 @@ Close sourced pro edition: Coming less soon.
 </details>
 
 <details>
-  <summary>Why are you charging money for commercial use?</summary>
-  <p>I am an independent developer, so license subscriptions is the only way I can support myself and the project long term. Commercial support, additional features, bug fix, and feature priority are provided with the Pro license, and of course ensuring the project stays alive. Up saves your team countless hours maintaining infrastructure and custom tooling, so you can get back to what makes your company and products unique.</p>
+  <summary>Why isn't Up licensed MIT?</summary>
+  <p>Up is licensed in such a way that myself as an independent developer can continue to improve the product and provide support. Commercial customers receive access to a premium version of Up with additional features, priority support for bugfixes, and of course knowing that the project will stick around! Up saves your team countless hours maintaining infrastructure and custom tooling, so you can get back to what makes your company and products unique.</p>
 </details>
 
 <details>
