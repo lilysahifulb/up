@@ -20,7 +20,7 @@ Close sourced pro edition: Coming less soon.
 
 ## Pricing
 
-Updated as of July 2017 based on public information.
+Updated as of July 2017 based on public information. Some services offer a restricted free version, or free access for solo developers – this table is based on commercial use.
 
 ![pricing table](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/pricing.png)
 
