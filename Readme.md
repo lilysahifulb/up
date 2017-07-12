@@ -20,7 +20,7 @@ Close sourced pro edition: Coming less soon.
 
 ## Pricing
 
-Information updated as of July 2017 based on public information.
+Updated as of July 2017 based on public information.
 
 ![pricing table](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/pricing.png)
 
