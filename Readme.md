@@ -1,6 +1,6 @@
 ![](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/title-fs8.png)
 
-Up deploys infinitely scalable serverless apps, APIs, and static websites in seconds, abstracting away complex AWS infrastructure so you can get back to writing code, all while providing cost effective, scalable, and global services. Utilizing AWS Lambda and API Gateway you pay only for what you use, all securely in your own AWS infrastructure. 
+Up deploys infinitely scalable serverless apps, APIs, and static websites in seconds, abstracting away complex AWS infrastructure so you can get back to writing code, all while providing cost effective, scalable, and global services. Utilizing AWS Lambda and API Gateway you pay only for what you use, all securely in your own AWS infrastructure.
 
 Up currently supports Node.js, Golang, Python, Crystal, and static sites out of the box. Once deployed you're ready to go! No waiting on remote builds, your project is immediately available. Check out some of the [examples](https://github.com/apex/up-examples) to get started.
 
@@ -22,7 +22,7 @@ Close sourced pro edition: Coming less soon.
 
 Information updated as of July 2017 based on public information.
 
-![pricing table](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/pricing-fs8.png)
+![pricing table](https://dl.dropboxusercontent.com/u/6396913/Apex/Up/Readme/pricing.png)
 
 ## FAQ
 
