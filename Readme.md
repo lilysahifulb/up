@@ -52,8 +52,13 @@ Updated as of July 2017 based on public information. Some services offer a restr
 </details>
 
 <details>
+  <summary>How much latency does Up's reverse proxy introduce?</summary>
+  <p>With a 512mb Lambda function Up introduces an average of around 500µs (microseconds) per request.</p>
+</details>
+
+<details>
   <summary>Can I donate?</summary>
-  <p>I'm glad you asked! Yes you can, head over to the <a href="https://opencollective.com/apex">OpenCollective</a> page. Any donations are greatly appreciated, and help me focus more on Up and other open source projects.</p>
+  <p>I'm glad you asked! Yes you can, head over to the <a href="https://opencollective.com/apex">OpenCollective</a> page. Any donations are greatly appreciated and help me focus more on Up's implementation, documentation, and examples.</p>
 </details>
 
 ## Community
